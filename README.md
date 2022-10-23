@@ -5,3 +5,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80974593/187328070-b6e5b427-d6ec-4420-bbc1-9e38903419c4.png" width="500">
 </div>
+
+<br>
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
+<br>
