@@ -1,6 +1,6 @@
 <h1 align="center">Componente de Código QR</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
-<p>Desafio do Frontend mentor, com o objetivo de praticar e fixar alguns conceitos de html e css, como div, class, e display flex!</p>
+<p>Desafio do Frontend mentor, com o objetivo de praticar e fixar alguns conceitos de html e css, como div, class, e display flex.</p>
 <br>
 
 ## :desktop_computer: Desktop design
